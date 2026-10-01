@@ -12,16 +12,32 @@
 
 ## 🛠️ Skills
 
+## 🛠️ Skills
+
+### Programming
 - C
 - C++
 - Java
 - Python
+- JavaScript
+
+### Data & Analytics
+- Excel
+- SQL
+- Basic Data Analysis
+- Data Visualization
+- Basic Statistics
+
+### Web Development
 - HTML
 - CSS
 - JavaScript
-- Git & GitHub
 
----
+### Tools
+- Git & GitHub
+- VS Code
+- Figma
+- Canva
 
 ## 📚 Currently Learning
 
