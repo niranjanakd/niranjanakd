@@ -38,7 +38,7 @@
 
 - CleanO – Municipality Waste Management Platform
 - Women Safety Emergency Assistance System
-- Smart Hostel Management System
+- Continuous authentication using behaviour biometric in banking system
 
 ---
 
@@ -54,3 +54,4 @@
 ## 📫 Connect With Me
 
 - GitHub: [niranjanakd](https://github.com/niranjanakd)
+- Linkedln: [niranjanakd](https://www.linkedin.com/in/niranjana-k-d-56601631b)
